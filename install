@@ -1,0 +1,2 @@
+!/bin/bash
+ln -svb $PWD/.bash_profile ~
